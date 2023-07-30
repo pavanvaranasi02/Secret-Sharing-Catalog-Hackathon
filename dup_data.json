@@ -1,0 +1,54 @@
+{
+    "secret": "7964530020479313657",
+    "shares": [
+        {
+            "index": 1,
+            "value": {
+                "value": "0x44d6802dc865233",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 2,
+            "value": {
+                "value": "0x2cb2c607f44663b6",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 3,
+            "value": {
+                "value": "0x42ecc6c567663bb",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 4,
+            "value": {
+                "value": "0x4b4649bc08d4707",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 5,
+            "value": {
+                "value": "0x58f4f7509d7008d",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 6,
+            "value": {
+                "value": "0x6cfa5e57bce65e79",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 7,
+            "value": {
+                "value": "0x2ffc61ad718e9bd2",
+                "prime": "74d153c9bfec9d0f"
+            }
+        }
+    ]
+}

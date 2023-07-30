@@ -1,0 +1,75 @@
+{
+    "secret": "7964530020479313657",
+    "shares": [
+        {
+            "index": 1,
+            "value": {
+                "value": "69492a18a52355ad",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 2,
+            "value": {
+                "value": "19c00922840cd569",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 3,
+            "value": {
+                "value": "2af86f02d40cc5e9",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 4,
+            "value": {
+                "value": "43e0cb179d34ab43",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 5,
+            "value": {
+                "value": "15b9d217d86beddc",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 6,
+            "value": {
+                "value": "33106eeed7e41681",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 7,
+            "value": {
+                "value": "672b0b7d49e83559",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 8,
+            "value": {
+                "value": "1e17772155459646",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 9,
+            "value": {
+                "value": "6888173c0f6125a6",
+                "prime": "74d153c9bfec9d0f"
+            }
+        },
+        {
+            "index": 10,
+            "value": {
+                "value": "4e6b25184d2fb484",
+                "prime": "74d153c9bfec9d0f"
+            }
+        }
+    ]
+}

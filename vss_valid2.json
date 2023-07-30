@@ -1,0 +1,70 @@
+{
+    "share": {
+        "index": 6,
+        "value": {
+            "value": "379fa50ca6d9fa44",
+            "prime": "6479c4ee1af696c5"
+        }
+    },
+    "commitments": [
+        {
+            "tag": "prime",
+            "data": {
+                "value": "62c5ff962348108",
+                "prime": "c8f389dc35ed2d8b"
+            }
+        },
+        {
+            "tag": "prime",
+            "data": {
+                "value": "6009b53fcb8383b6",
+                "prime": "c8f389dc35ed2d8b"
+            }
+        },
+        {
+            "tag": "prime",
+            "data": {
+                "value": "4857a35a4be7e12d",
+                "prime": "c8f389dc35ed2d8b"
+            }
+        },
+        {
+            "tag": "prime",
+            "data": {
+                "value": "16df4bf439fda15c",
+                "prime": "c8f389dc35ed2d8b"
+            }
+        },
+        {
+            "tag": "prime",
+            "data": {
+                "value": "7074eae969aed021",
+                "prime": "c8f389dc35ed2d8b"
+            }
+        },
+        {
+            "tag": "prime",
+            "data": {
+                "value": "7828ebd01d8ad299",
+                "prime": "c8f389dc35ed2d8b"
+            }
+        },
+        {
+            "tag": "prime",
+            "data": {
+                "value": "53cfa3424370cf9f",
+                "prime": "c8f389dc35ed2d8b"
+            }
+        }
+    ],
+    "group": {
+        "generator": {
+            "tag": "prime",
+            "data": {
+                "value": "3",
+                "prime": "c8f389dc35ed2d8b"
+            }
+        },
+        "p": "6479c4ee1af696c5"
+    }
+}
